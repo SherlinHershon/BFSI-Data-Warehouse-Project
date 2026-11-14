@@ -29,3 +29,10 @@ Customer Insights: Enhanced customer profiling for better services and up/cross-
 Operational Efficiency: Removal of duplicate/inconsistent data, enabling faster reporting.
 ✓
 Data-Driven Decision Making: Trusted reports and dashboards empowering leadership decisions.
+
+**Programming Languages**
+SQL
+Python
+
+**Architure**
+Mermaid AI
